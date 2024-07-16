@@ -4,6 +4,6 @@
 nginx
 mysql:5.7
 mysql
-Oracle
+oracle
 busybox
 
