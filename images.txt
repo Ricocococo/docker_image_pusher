@@ -8,3 +8,4 @@ mysql
 busybox
 --platform=linux/arm64 docker.io/calico/node:v3.28.2
 --platform=linux/arm64 docker.io/calico/kube-controllers:v3.28.2 
+--platform=linux/arm64 docker.io/calico/calico/cni:v3.28.2 
