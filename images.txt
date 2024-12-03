@@ -5,4 +5,5 @@ nginx
 mysql:5.7
 mysql
 busybox
+docker.io/calico/node:v3.28.2 --platform=linux/arm64
 
